@@ -1,5 +1,5 @@
 <template>
-  <v-card height="60">
+  <v-card>
     <v-card-title>
       <h2>{{ trackInfo.artist }} - {{ trackInfo.title }}</h2>
       <v-spacer></v-spacer>
